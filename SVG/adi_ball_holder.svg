@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:lc="https://librecad.org" xmlns:xlink="http://www.w3.org/1999/xlink" width="67mm" height="60mm" viewBox="0 0 67 60">
+    <g lc:layername="0" lc:is_locked="false" lc:is_construction="false" fill="none" stroke="black" stroke-width="1">
+        <g lc:blockname="adi_ball_holder">
+            <g lc:layername="0" lc:is_locked="false" lc:is_construction="false" fill="none" stroke="black" stroke-width="1">
+                <path d="M52.5,67 A0,0 0 1,0 52.5,67 L62,67 L62,70 L20,70 L3,53 L3,50 L-5,50 A0,0 0 1,0 -5,50 L-5,30 A0,0 0 1,0 -5,30 L3,30 A0,0 0 1,0 3,30 L3,27 L20,10 L62,10 L62,13 L22.82443596,13 A32,32 0 0,0 22.82443596,67 L23,67 L27.5,67 L27.5,47 L32.5,47 A0,0 0 1,0 32.5,47 L32.5,67 L47.5,67 L47.5,47 L52.5,47 L52.5,67 Z "/>
+            </g>
+        </g>
+    </g>
+</svg>

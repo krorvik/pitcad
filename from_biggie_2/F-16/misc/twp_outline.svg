@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:lc="http://www.librecad.org" xmlns:xlink="http://www.w3.org/1999/xlink" width="77mm" height="87mm" viewBox="0 0 77 87">
+    <defs>
+        <g id="355010" lc:blockname="rwr_back_1">
+            <g lc:layername="0" lc:is_locked="false" lc:is_construction="false" fill="none" stroke="black" stroke-width="1"/>
+        </g>
+        <g id="355011" lc:blockname="twp_panel_outline">
+            <g lc:layername="0" lc:is_locked="false" lc:is_construction="false" fill="none" stroke="black" stroke-width="1">
+                <circle cx="106" cy="972" r="1.5"/>
+                <circle cx="159.455" cy="983.665" r="1.5"/>
+                <circle cx="158" cy="921" r="1.5"/>
+                <path d="M110.18,982.14 L126.18,982.14 L126.18,966.14 L110.18,966.14 L110.18,982.14 Z "/>
+                <path d="M145.74,982.14 L161.74,982.14 L161.74,966.14 L145.74,966.14 L145.74,982.14 Z "/>
+                <path d="M127.96,961.82 L143.96,961.82 L143.96,945.82 L127.96,945.82 L127.96,961.82 Z "/>
+                <path d="M145.74,961.82 L161.74,961.82 L161.74,945.82 L145.74,945.82 L145.74,961.82 Z "/>
+                <path d="M145.74,941.5 L161.74,941.5 L161.74,925.5 L145.74,925.5 L145.74,941.5 Z "/>
+                <path d="M127.96,982.14 L143.96,982.14 L143.96,966.14 L127.96,966.14 L127.96,982.14 Z "/>
+                <line x1="101" y1="984" x2="101" y2="994"/>
+                <line x1="101" y1="994" x2="170" y2="994"/>
+                <line x1="170" y1="994" x2="170" y2="907"/>
+                <line x1="155.10050506" y1="907" x2="93" y2="969.10050506"/>
+                <line x1="93" y1="984" x2="101" y2="984"/>
+                <line x1="170" y1="907" x2="155.10050506" y2="907"/>
+                <line x1="93" y1="984" x2="93" y2="969.10050506"/>
+            </g>
+        </g>
+    </defs>
+    <g lc:layername="0" lc:is_locked="false" lc:is_construction="false" fill="none" stroke="black" stroke-width="1">
+        <use x="15" y="-7" xlink:href="#355011"/>
+    </g>
+</svg>

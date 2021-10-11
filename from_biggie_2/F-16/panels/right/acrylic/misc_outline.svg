@@ -1,0 +1,75 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:lc="http://www.librecad.org" xmlns:xlink="http://www.w3.org/1999/xlink" width="70mm" height="195mm" viewBox="0 0 70 195">
+    <g lc:layername="0" lc:is_locked="false" lc:is_construction="false" fill="none" stroke="black" stroke-width="1">
+        <line x1="0" y1="195" x2="60" y2="195"/>
+        <path d="M70,155 A110.63770822,110.63770822 0 0,0 60,195 "/>
+        <line x1="0" y1="195" x2="0" y2="165"/>
+        <line x1="30" y1="25" x2="10" y2="149"/>
+        <path d="M0,165 A28.75031041,28.75031041 0 0,0 10,149 "/>
+        <path d="M45,0 A36.01601915,36.01601915 0 0,0 30,25 "/>
+        <line x1="69" y1="0" x2="45" y2="0"/>
+        <line x1="70" y1="0" x2="69" y2="0"/>
+        <line x1="70" y1="0" x2="70" y2="155"/>
+    </g>
+    <g lc:layername="clear" lc:is_locked="false" lc:is_construction="false" style="display: none;" fill="none" stroke="black" stroke-width="1">
+        <line x1="390" y1="195" x2="330" y2="195"/>
+        <path d="M330,195 A110.63770822,110.63770822 0 0,0 320,155 "/>
+        <line x1="390" y1="195" x2="390" y2="165"/>
+        <line x1="340" y1="0" x2="345" y2="0"/>
+        <line x1="360" y1="25" x2="380" y2="149"/>
+        <path d="M380,149 A28.75031041,28.75031041 0 0,0 390,165 "/>
+        <path d="M360,25 A36.01601915,36.01601915 0 0,0 345,0 "/>
+        <line x1="321" y1="0" x2="345" y2="0"/>
+        <line x1="320" y1="155" x2="320" y2="0"/>
+        <line x1="320" y1="0" x2="321" y2="0"/>
+    </g>
+    <g lc:layername="digger" lc:is_locked="true" lc:is_construction="false" style="display: none;" fill="none" stroke="black" stroke-width="1">
+        <line x1="160" y1="195" x2="220" y2="195"/>
+        <path d="M230,155 A110.63770822,110.63770822 0 0,0 220,195 "/>
+        <line x1="160" y1="195" x2="160" y2="165"/>
+        <line x1="210" y1="0" x2="205" y2="0"/>
+        <line x1="190" y1="25" x2="170" y2="149"/>
+        <path d="M160,165 A28.75031041,28.75031041 0 0,0 170,149 "/>
+        <path d="M205,0 A36.01601915,36.01601915 0 0,0 190,25 "/>
+        <line x1="229" y1="0" x2="205" y2="0"/>
+        <line x1="230" y1="0" x2="229" y2="0"/>
+        <line x1="230" y1="0" x2="230" y2="155"/>
+        <circle cx="176" cy="178" r="6"/>
+        <circle cx="204" cy="178" r="6"/>
+        <circle cx="206" cy="114" r="6"/>
+        <circle cx="200" cy="55" r="6"/>
+        <circle cx="218" cy="17" r="6"/>
+        <circle cx="218" cy="45" r="6"/>
+        <circle cx="195" cy="23" r="1.5"/>
+        <circle cx="225.5" cy="155" r="1.5"/>
+        <circle cx="215" cy="75" r="3.5"/>
+        <path d="M190,155 L208,155 L208,137 L190,137 L190,155 Z "/>
+        <line x1="470" y1="195" x2="410" y2="195"/>
+        <path d="M410,195 A110.63770822,110.63770822 0 0,0 400,155 "/>
+        <line x1="470" y1="195" x2="470" y2="165"/>
+        <line x1="420" y1="0" x2="425" y2="0"/>
+        <line x1="440" y1="25" x2="460" y2="149"/>
+        <path d="M460,149 A28.75031041,28.75031041 0 0,0 470,165 "/>
+        <path d="M440,25 A36.01601915,36.01601915 0 0,0 425,0 "/>
+        <line x1="401" y1="0" x2="425" y2="0"/>
+        <line x1="400" y1="155" x2="400" y2="0"/>
+        <line x1="400" y1="0" x2="401" y2="0"/>
+    </g>
+    <g lc:layername="light" lc:is_locked="false" lc:is_construction="false" fill="none" stroke="black" stroke-width="1"/>
+    <g lc:layername="right_frame" lc:is_locked="false" lc:is_construction="false" style="display: none;" fill="none" stroke="black" stroke-width="1">
+        <line x1="310" y1="195" x2="250" y2="195"/>
+        <path d="M250,195 A110.63770822,110.63770822 0 0,0 240,155 "/>
+        <line x1="310" y1="195" x2="310" y2="165"/>
+        <line x1="260" y1="0" x2="265" y2="0"/>
+        <line x1="280" y1="25" x2="300" y2="149"/>
+        <path d="M300,149 A28.75031041,28.75031041 0 0,0 310,165 "/>
+        <path d="M280,25 A36.01601915,36.01601915 0 0,0 265,0 "/>
+        <line x1="241" y1="0" x2="265" y2="0"/>
+        <line x1="240" y1="155" x2="240" y2="0"/>
+        <line x1="240" y1="0" x2="241" y2="0"/>
+        <circle cx="256" cy="19" r="12"/>
+        <circle cx="261" cy="57" r="16"/>
+        <circle cx="264" cy="105" r="20"/>
+        <circle cx="274" cy="159" r="22"/>
+    </g>
+</svg>

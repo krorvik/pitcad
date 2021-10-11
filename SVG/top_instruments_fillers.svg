@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:lc="https://librecad.org" xmlns:xlink="http://www.w3.org/1999/xlink" width="166.6mm" height="162.6mm" viewBox="0 0 166.6 162.6">
+    <g lc:layername="0" lc:is_locked="false" lc:is_construction="false" fill="none" stroke="black" stroke-width="1">
+        <circle cx="1.6" cy="161" r="1.6"/>
+        <circle cx="5.6" cy="77" r="1.6"/>
+        <circle cx="39.6" cy="77" r="1.6"/>
+        <circle cx="5.6" cy="157" r="1.6"/>
+        <circle cx="39.6" cy="157" r="1.6"/>
+        <circle cx="129.6" cy="77" r="1.6"/>
+        <circle cx="163.6" cy="77" r="1.6"/>
+        <circle cx="129.6" cy="157" r="1.6"/>
+        <circle cx="163.6" cy="157" r="1.6"/>
+        <circle cx="46.6" cy="77" r="1.6"/>
+        <circle cx="46.6" cy="157" r="1.6"/>
+        <circle cx="122.6" cy="157" r="1.6"/>
+        <circle cx="122.6" cy="77" r="1.6"/>
+        <circle cx="5.6" cy="67" r="1.6"/>
+        <circle cx="5.6" cy="3" r="1.6"/>
+        <circle cx="80.6" cy="3" r="1.6"/>
+        <circle cx="80.6" cy="67" r="1.6"/>
+        <circle cx="163.6" cy="67" r="1.6"/>
+        <circle cx="163.6" cy="3" r="1.6"/>
+        <circle cx="88.6" cy="3" r="1.6"/>
+        <circle cx="88.6" cy="67" r="1.6"/>
+        <path d="M153.1,160 L163.6,160 A3,3 0 0,0 166.6,157 L166.6,151.5 L166.6,82.5 L166.6,77 A3,3 0 0,0 163.6,74 L158.1,74 L130.6,74 A3,3 0 0,0 127.6,77 L127.6,157 A3,3 0 0,0 130.6,160 L157.6,160 L158.1,160 "/>
+        <path d="M2.6,82.5 L2.6,151.5 "/>
+        <path d="M2.6,146.5 L2.6,157 A3,3 0 0,0 5.6,160 L38.6,160 A3,3 0 0,0 41.6,157 L41.6,77 A3,3 0 0,0 38.6,74 L5.6,74 A3,3 0 0,0 2.6,77 L2.6,87.5 "/>
+        <path d="M124.6,157 L124.6,77 A3,3 0 0,0 121.6,74 L47.6,74 A3,3 0 0,0 44.6,77 L44.6,157 A3,3 0 0,0 47.6,160 L121.6,160 A3,3 0 0,0 124.6,157 "/>
+        <path d="M2.6,3 A3,3 0 0,1 5.6,0 L69.6,0 L80.6,0 A3,3 0 0,1 83.6,3 L83.6,67 A3,3 0 0,1 80.6,70 L69.6,70 L5.6,70 A3,3 0 0,1 2.6,67 L2.6,3 "/>
+        <path d="M166.6,3 A3,3 0 0,0 163.6,0 L99.6,0 L88.6,0 A3,3 0 0,0 85.6,3 L85.6,67 A3,3 0 0,0 88.6,70 L99.6,70 L163.6,70 A3,3 0 0,0 166.6,67 L166.6,3 "/>
+    </g>
+    <g lc:layername="dimensions" lc:is_locked="false" lc:is_construction="false" fill="none" stroke="black" stroke-width="1"/>
+</svg>

@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:lc="https://librecad.org" xmlns:xlink="http://www.w3.org/1999/xlink" width="82mm" height="93mm" viewBox="0 0 82 93">
+    <g lc:layername="0" lc:is_locked="false" lc:is_construction="false" fill="none" stroke="black" stroke-width="1">
+        <path d="M76,60.95836944 A3,3 0 0,1 73,63.95836944 L69.52842712,63.95836944 A3,3 0 0,0 67.40710678,64.8370491 L57.8507576,74.39339828 A3,3 0 0,1 55.72943725,75.27207794 L26.27056275,75.27207794 A3,3 0 0,1 24.1492424,74.39339828 L14.59289322,64.8370491 A3,3 0 0,0 12.47157288,63.95836944 L9,63.95836944 A3,3 0 0,1 6,60.95836944 "/>
+        <path d="M3,0 A3,3 0 0,0 0,3 L0,90 A3,3 0 0,0 3,93 L79,93 A3,3 0 0,0 82,90 L82,3 A3,3 0 0,0 79,0 L3,0 "/>
+        <path d="M12.3,88 L23.6137085,76.6862915 L12.3,65.372583 L0.9862915,76.6862915 L12.3,88 Z "/>
+        <path d="M69.7,88 L58.3862915,76.6862915 L69.7,65.372583 L81.0137085,76.6862915 L69.7,88 Z "/>
+        <path d="M76,61 L76,58 L76,57.95836944 "/>
+        <path d="M33.5,90 L46.5,90 L46.5,78 L33.5,78 L33.5,90 Z "/>
+        <path d="M6,61 L6,58 L6,57.95836944 L6,11 A3,3 0 0,1 9,8 L73,8 A3,3 0 0,1 76,11 L76,58 "/>
+        <circle cx="3" cy="3" r="1"/>
+        <circle cx="79" cy="3" r="1"/>
+        <circle cx="79" cy="83" r="1"/>
+        <circle cx="3" cy="83" r="1"/>
+    </g>
+    <g lc:layername="dimensions" lc:is_locked="false" lc:is_construction="false" fill="none" stroke="black" stroke-width="1"/>
+</svg>

@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:lc="https://librecad.org" xmlns:xlink="http://www.w3.org/1999/xlink" width="164mm" height="86mm" viewBox="0 0 164 86">
+    <g lc:layername="0" lc:is_locked="false" lc:is_construction="false" fill="none" stroke="black" stroke-width="1">
+        <circle cx="44.00001507" cy="3" r="1.6"/>
+        <circle cx="44.00001507" cy="83" r="1.6"/>
+        <circle cx="120.00001507" cy="83" r="1.6"/>
+        <circle cx="120.00001507" cy="3" r="1.6"/>
+        <circle cx="33.00001507" cy="83" r="1.6"/>
+        <circle cx="33.00001507" cy="3" r="1.6"/>
+        <circle cx="161.00003013" cy="83" r="1.6"/>
+        <circle cx="161.00003013" cy="3" r="1.6"/>
+        <circle cx="3" cy="3" r="1.6"/>
+        <circle cx="3" cy="83" r="1.6"/>
+        <circle cx="131.00001507" cy="3" r="1.6"/>
+        <circle cx="131.00001507" cy="83" r="1.6"/>
+        <path d="M33.00001507,86 L3,86 A3,3 0 0,1 0,83 L0,3 A3,3 0 0,1 3,0 L33.00001507,0 A3,3 0 0,1 36.00001507,3 L36.00001507,83 A3,3 0 0,1 33.00001507,86 Z "/>
+        <path d="M44.00001507,0 L120.00001507,0 A3,3 0 0,1 123.00001507,3 L123.00001507,83 A3,3 0 0,1 120.00001507,86 L44.00001507,86 A3,3 0 0,1 41.00001507,83 L41.00001507,3 A3,3 0 0,1 44.00001507,0 Z "/>
+        <path d="M131.00001507,0.09151266 L161,0.09151266 A3,3 0 0,1 164,3.09151266 L164,83 A3,3 0 0,1 161,86 L131.00001507,86 A3,3 0 0,1 128.00001507,83 L128.00001507,3.09151266 A3,3 0 0,1 131.00001507,0.09151266 Z "/>
+    </g>
+    <g lc:layername="dimensions" lc:is_locked="false" lc:is_construction="false" fill="none" stroke="black" stroke-width="1"/>
+</svg>
